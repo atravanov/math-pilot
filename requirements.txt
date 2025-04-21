@@ -1,3 +1,5 @@
 ipykernel
 python-dotenv
 numpy
+matplotlib
+sympy
